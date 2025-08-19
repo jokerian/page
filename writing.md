@@ -2,7 +2,7 @@
 layout: category_index
 title: Writing
 permalink: /writing/
-category_name: writing
+category_name: menu
 
 ---
 title: kylan DoRian
