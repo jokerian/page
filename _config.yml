@@ -6,7 +6,7 @@ github_repo: page
 github_username: jokerian
 theme_color: light
 remote_theme: internet-de-france/athena
-baseurl: /page
+baseurl: /
 defaults:
   - scope:
       path: ''
