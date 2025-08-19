@@ -6,7 +6,7 @@ category_name: writing
 
 ---
 title: kylan DoRian
-permalink: jokerian.github.io/page
+permalink: jokerian.github.io/
 category_name: Menu
 permalink: /menu/
 filename: menu.html
