@@ -2,12 +2,12 @@
 layout: category_index
 title: Writing
 permalink: /writing/
-category_name: menu
+category_name: Writing
 
 ---
 title: kylan DoRian
 permalink: jokerian.github.io/
-category_name: Menu
+category_name: writing
 permalink: /menu/
 filename: menu.html
 
