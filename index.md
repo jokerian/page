@@ -1,10 +1,13 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Kylan DoRian
 
 ---
+- **DevOps Administrator** of *JK-acme Foundation*.
+- From *Europe/London*.
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+![2025-08-02-216934.jpg](https://jokerian.github.io/assets/2025-08-02-216934.jpg)
+
 
 
