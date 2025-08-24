@@ -1,6 +1,10 @@
 - title: Home
   url: /
 - title: About
-  url: /about
-- title: Writing
-  url: /writing
+  url: /about/
+- title: Blog
+  url: /blogs/
+- title: Page
+  url: /pages/
+- title: Projects
+   url: /sites/
