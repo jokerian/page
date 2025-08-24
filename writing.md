@@ -1,8 +1,8 @@
 ---
 layout: category_index
-title: Writing
-permalink: /blogs/
-category_name: Blogs
+title: Blog
+permalink: /blog/
+category_name: Blog
 
 ---
 title: kylan DoRian
